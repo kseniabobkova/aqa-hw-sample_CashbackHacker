@@ -4,7 +4,7 @@
 name: Java CI with Gradle
 
 push:
-    branches: [ ]
+    branches: [*]
   pull_request:
     branches: [ main ]
 
